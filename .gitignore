@@ -1,0 +1,9 @@
+# Ignoring files
+
+## Ignoring LaTex files
+*.aux
+*.log
+*.gz
+
+## Ignoring system files
+.DS_Store
